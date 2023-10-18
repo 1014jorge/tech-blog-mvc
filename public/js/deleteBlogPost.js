@@ -3,24 +3,24 @@ const deletePostHandler = async (event) => {
     event.preventDefault();
     console.log("clicked me");
     console.log(event.target);
-  
+
     let blogPost = window.location.pathname.split("/");
     console.log(blogPost);
-  
+
     const response = await fetch(`/api/blogPost/${blogPost[2]}`, {
-      method: "DELETE",
+        method: "DELETE",
     });
-  
+
     if (response.ok) {
-      document.location.assign(`/dashboard`);
+        document.location.assign(`/dashboard`);
     } else {
-      alert(response.statusText);
+        alert(response.statusText);
     }
-  };
-  
-  const deleteButton = document.querySelectorAll("#deleteBtn");
-  
-  // Iterates over all buttons on the page allowing for delete functionality
-  for (let i = 0; i < deleteButton.length; i++) {
+};
+
+const deleteButton = document.querySelectorAll("#deleteBtn");
+
+// Iterates over all buttons on the page allowing for delete functionality
+for (let i = 0; i < deleteButton.length; i++) {
     deleteButton[i].addEventListener("click", deletePostHandler);
-  }
+}
