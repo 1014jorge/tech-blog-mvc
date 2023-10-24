@@ -1,17 +1,27 @@
 [
     {
-        "name": "Janis Joplin",
-        "email": "takeanotherlittlepieceofmyheart@hotmail.com",
+        "name": "DMX",
+        "email": "my_dogs_bite@hotmail.com",
         "password": "password1"
     },
     {
-        "name": "Jerry Garcia",
-        "email": "dancingbears@gmail.com",
+        "name": "Eminem",
+        "email": "cleaning_out_my_closet@gmail.com",
         "password": "password12"
     },
     {
-        "name": "John Lennon",
-        "email": "imagine@aol.com",
+        "name": "Red Hot Chili Peppers",
+        "email": "californication@aol.com",
         "password": "password123"
+    },
+    {
+        "name": "Daddy Yankee",
+        "email": "gasolina@live.com",
+        "password": "password1234"
+    },
+    {
+        "name": "Frank Sinatra",
+        "email": "undermyskin@me.com",
+        "password": "password12345"
     }
 ]

@@ -1,29 +1,29 @@
 /* General page styles */
 
 header {
-    font-family: "Jomolhari", serif;
+    font-family: "aptos", serif;
 }
 
 body {
-    background-color: #a28089;
+    background-color: #9c80a2;
 }
 
 h1 {
     font-family: "Jomolhari", serif;
-    background-color: teal;
-    color: #ffb3c6;
+    background-color: rgb(81, 0, 128);
+    color: #b3f6ff;
     padding: 16px;
     margin-bottom: 5px;
 }
 
 #blogName {
-    color: #ffe5ec;
+    color: #ffefe5;
 }
 
 main {
     font-family: "Jomolhari", serif;
     margin-top: -5px;
-    background-color: #a28089;
+    background-color: #8080a2;
 }
 
 .homepage-main {
@@ -31,7 +31,7 @@ main {
 }
 
 .user-name {
-    background-color: #84a59d;
+    background-color: #848ea5;
 }
 
 .blogPost-main {
@@ -41,11 +41,11 @@ main {
 /* Nav styles */
 
 .navBar {
-    background-color: #00a0a0;
+    background-color: #001da0;
 }
 
 #logout {
-    background-color: #84a59d;
+    background-color: #a58484;
 }
 
 /* Input/textarea styles */
