@@ -5,47 +5,57 @@ header {
 }
 
 body {
-    background-color: #9c80a2;
+    background-color: yellow;
+    background-image: linear-gradient(#B92B27, #1565C0);
+    /* background-color: #9c80a2; */
 }
 
 h1 {
-    font-family: "Jomolhari", serif;
-    background-color: rgb(81, 0, 128);
-    color: #b3f6ff;
+    font-family: "aptos", serif;
+    /* background-color: rgb(81, 0, 128); */
+    background-color: red;
+    background-image: linear-gradient(#B92B27, #1565C0);
+    color: yellow;
     padding: 16px;
     margin-bottom: 5px;
 }
 
 #blogName {
-    color: #ffefe5;
+    color: red;
 }
 
 main {
-    font-family: "Jomolhari", serif;
+    font-family: "aptos", serif;
     margin-top: -5px;
-    background-color: #8080a2;
+    background-color: yellow;
+    background-image: linear-gradient(#B92B27, #1565C0);
 }
 
 .homepage-main {
+    background-color: red;
+    background-image: linear-gradient(#B92B27, #1565C0);
     margin-top: 34px;
 }
 
 .user-name {
-    background-color: #848ea5;
+    background-color: yellow;
 }
 
 .blogPost-main {
+
     margin-top: 34px;
 }
 
 /* Nav styles */
 
 .navBar {
-    background-color: #001da0;
+    background-color: red;
+    background-image: linear-gradient(#B92B27, #1565C0);
 }
 
 #logout {
-    background-color: #a58484;
+    background-color: yellow;
+    background-image: linear-gradient(#B92B27, #1565C0);
 }
 
 /* Input/textarea styles */
@@ -58,27 +68,31 @@ main {
 #name-signup,
 #email-signup,
 #password-signup {
-    background-color: #e5eaf5;
+    background-color: red;
+    background-image: linear-gradient(white, grey);
 }
 
 /* Button styles */
 
 .btn {
-    background-color: #ffb3c6;
+    background-color: blue;
 }
 
 /* Card styles */
 
 .card-header {
-    background-color: #e5eaf5;
+    background-color: red;
+    background-image: linear-gradient(#B92B27, #1565C0);
 }
 
 .card-body {
-    background-color: #ffe5ec;
+    background-color: yellow;
+    background-image: linear-gradient(#B92B27, #1565C0);
 }
 
 .card {
-    background-color: #ffe5ec;
+    background-color: red;
+    background-image: linear-gradient(#B92B27, #1565C0);
 }
 
 .card:hover {
