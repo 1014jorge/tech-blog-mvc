@@ -13,7 +13,7 @@
 
 This is a tech blog created using MVC structure. the application uses MYSQL, handlebars, and sequelize. Its been deployed to heroku.
 
-The blog allows users te create posts, add comments. Posts and threads are displayed.
+The blog allows users to create posts, add comments. Posts and threads are displayed.
 
 ## Installation 
 This program has dependencies, and requires their installation via npm. You need to install a few npm packages, MySQL2, Sequelize, express handlebars, dontenv package, express-session and connect-session-sequelize packages to add authentication.
