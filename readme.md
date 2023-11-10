@@ -52,6 +52,8 @@ GitHub:  1014jorge
 
 GitHub Link: github.com/1014jorge
 
+Deployed App: https://blogtechno-5c778970c0e0.herokuapp.com/
+
 email: jorge.1014@gmail.com
 
 
