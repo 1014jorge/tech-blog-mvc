@@ -1,4 +1,4 @@
-# Professional README Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# TECH BLOG MVC [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
  
 ## Table of Contents 
@@ -56,5 +56,5 @@ Deployed App: https://blogtechno-5c778970c0e0.herokuapp.com/
 
 email: jorge.1014@gmail.com
 
-
+GitHub Repo Link: https://github.com/1014jorge/tech-blog-mvc
   
